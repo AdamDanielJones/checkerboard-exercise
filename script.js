@@ -1,4 +1,4 @@
-// Feature 2 created random color on every other square
+// Feature 3
 function generateRandomColor() {
   return "#" + Math.floor(Math.random()*16777215).toString(16);
 }
